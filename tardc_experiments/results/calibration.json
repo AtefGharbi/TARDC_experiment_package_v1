@@ -1,0 +1,13 @@
+{
+  "development_seed": 91337,
+  "development_samples": 20000,
+  "benign_score_quantiles": {
+    "0.5": 0.1935577262678166,
+    "0.95": 0.31282859038326893,
+    "0.99": 0.3680175283362935,
+    "0.999": 0.4325138085963869
+  },
+  "frozen_theta_r": 0.8,
+  "frozen_theta_a": 2.4,
+  "note": "Analytical sensor-noise development sample; evaluation seeds are disjoint."
+}
